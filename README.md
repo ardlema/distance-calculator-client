@@ -1,4 +1,4 @@
-CLIENTE GRAFICO LINEA COMANDOS PARA LA PRUEBA TECNICA CALCULO MINIMA DISTANCIA ENTRE DOS CIUDADES
+CLIENTE GRAFICO LINEA COMANDOS PARA LA PRUEBA TECNICA CALCULO MINIMA DISTANCIA ENTRE DOS CIUDADES 
 -------------------------------------------------------------------------------------------------
 
 Este repositorio contiene un cliente muy sencillo para probar la solución implementada en el repositorio distance-calculator.
