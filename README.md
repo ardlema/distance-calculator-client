@@ -19,5 +19,5 @@ INSTRUCCIONES PARA INSTALAR EL PROYECTO
      mvn clean install
      mvn dependency:copy-dependencies
 3. Ejecutar el siguiente comando:
-     java -classpath classes:target/dependency/*:target/distance-calculator-client-1.0.jar org.ardlema.GUIUtil
+     java -classpath classes:target/dependency/*:target/distance-calculator-client-1.0.jar org.ardlema.GUIUtil 
 
